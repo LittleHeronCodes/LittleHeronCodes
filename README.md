@@ -1,4 +1,4 @@
-#### Aspiring Bioinformatician
+### Hello
 
 - Bioinformatics PhD student
 
@@ -9,7 +9,6 @@
 - 
 
 #### Research
-
 
 <!--
 **LittleHeronCodes/LittleHeronCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
