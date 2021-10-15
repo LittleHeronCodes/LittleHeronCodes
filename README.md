@@ -1,5 +1,14 @@
-### Aspiring Bioinformatician
+#### Aspiring Bioinformatician
 
+- Bioinformatics PhD student
+
+#### Skills
+
+- R programming
+- RNA-seq data analysis
+- 
+
+#### Research
 
 
 <!--
