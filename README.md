@@ -6,15 +6,11 @@
 
 ### Skills
 
-- RNA-seq analysis  ⬛⬛⬛⬛⬛
-- 
-
-### Programming Language
-
-- R      ⬛⬛⬛⬛⬛
-- bash   ⬛⬛⬛⬛⬜
-- SQL    ⬛⬛⬜⬜⬜ 
-- Python ⬛⬛⬜⬜⬜ 
+- RNA-seq analysis
+- R
+- bash
+- SQL
+- Python
 
 ### Research
 
