@@ -1,14 +1,22 @@
 ### Hello
 
-- Bioinformatics PhD student
+#### Bioinformatics PhD
 
-#### Skills
+- Ewha Womans University, Seoul, Republic of Korea
 
-- R programming
-- RNA-seq data analysis
+### Skills
+
+- RNA-seq analysis  ⬛⬛⬛⬛⬛
 - 
 
-#### Research
+### Programming Language
+
+- R      ⬛⬛⬛⬛⬛
+- bash   ⬛⬛⬛⬛⬜
+- SQL    ⬛⬛⬜⬜⬜ 
+- Python ⬛⬛⬜⬜⬜ 
+
+### Research
 
 <!--
 **LittleHeronCodes/LittleHeronCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
