@@ -6,7 +6,7 @@
 
 ### Skills
 
-- RNA-seq analysis
+- Transcriptome analysis (NGS, Array)
 - R
 - bash
 - SQL
