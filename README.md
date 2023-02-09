@@ -1,6 +1,6 @@
 ## Hello!
 
-#### Bioinformatics PhD
+### Bioinformatics PhD
 
 - 2023.02., Ewha Womans University, Seoul, Republic of Korea
 
@@ -12,7 +12,9 @@
 - SQL
 - Python
 
-### Research
+### Research Projects
+
+### Publications
 
 
 
