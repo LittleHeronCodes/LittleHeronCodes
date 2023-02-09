@@ -1,8 +1,8 @@
-### Hello
+## Hello!
 
 #### Bioinformatics PhD
 
-- Ewha Womans University, Seoul, Republic of Korea
+- 2023.02., Ewha Womans University, Seoul, Republic of Korea
 
 ### Skills
 
@@ -13,6 +13,8 @@
 - Python
 
 ### Research
+
+
 
 <!--
 **LittleHeronCodes/LittleHeronCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
