@@ -2,7 +2,8 @@
 
 ### Bioinformatics PhD
 
-- 2023.02., Ewha Womans University, Seoul, Republic of Korea
+- 2023.10. Icahn School of Medicine at Mount Sinai, New York, US
+- 2023.02. - 2023.10. Ewha Womans University, Seoul, Republic of Korea
 
 ### Skills
 
