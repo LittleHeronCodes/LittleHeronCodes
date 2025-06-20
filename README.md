@@ -9,7 +9,7 @@ I apply network-based and multi-omics-driven systems biology approaches to study
 ### 🎓 Bioinformatics PhD
 
 - **Oct 2023 - *(current)***: &nbsp;&nbsp;Icahn School of Medicine at Mount Sinai, New York, USA
-- **Feb 2023 – Sep 2023**: &nbsp;Ewha Womans University, Seoul, Republic of Korea
+- **Feb 2017 – Sep 2023**: &nbsp;Ewha Womans University, Seoul, Republic of Korea
 
 ### 🛠️ Skills
 
@@ -25,19 +25,5 @@ I apply network-based and multi-omics-driven systems biology approaches to study
 - 💊 Therapeutic target discovery in complex diseases  
 - 🧠 Development of systems biology and network-based analytical frameworks  
 - 🔍 Multi-modal integration of omics data
-
-### 📜 Publications
-
-
-### 🔗 Featured Projects
-
-
-
-
-### 📫 Get in Touch
-
-
-
-### 📊 GitHub Stats
 
 
