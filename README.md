@@ -1,10 +1,10 @@
 ## 👋 Hello!
 
-Welcome to my GitHub profile! I'm a computational biologist and postdoctoral researcher passionate about uncovering complex disease mechanisms through integrative multi-omics and systems biology.
+Welcome to my GitHub profile! I am a binformatics researcher interested in studying disease mechanisms through integrated multi-omics analysis
 
 ### 🔬 About Me
 
-I apply network-based and multi-omics-driven systems biology approaches to study respiratory diseases such as asthma, idiopathic pulmonary fibrosis, and allergic rhinitis. My research focuses on identifying robust biomarkers, therapeutic targets, and mechanistic insights by integrating transcriptome, microbiome, and proteome data.
+I apply network-based and multi-omics-driven systems biology approaches to study respiratory diseases such as asthma, idiopathic pulmonary fibrosis, and allergic rhinitis. My research focuses on discovering mechanistic insights through systems biology approach.
 
 ### 🎓 Bioinformatics PhD
 
@@ -25,5 +25,4 @@ I apply network-based and multi-omics-driven systems biology approaches to study
 - 💊 Therapeutic target discovery in complex diseases  
 - 🧠 Development of systems biology and network-based analytical frameworks  
 - 🔍 Multi-modal integration of omics data
-
 
