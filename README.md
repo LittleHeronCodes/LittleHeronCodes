@@ -18,7 +18,7 @@ I apply network-based and multi-omics-driven systems biology approaches to study
 - 🔗 Network biology (WGCNA, correlation/network integration)
 - 📊 R (tidyverse, DESeq2, limma, WGCNA, package development)
 - 💻 Bash scripting in HPC environments
-- 🐍 Use Snakemake to organize and build analysis pipeplines
+- 🐍 Snakemake to organize and build analysis pipeplines
 
 ### ⚗️ Research Interests
 
