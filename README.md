@@ -1,6 +1,6 @@
 ## 👋 Hello!
 
-Welcome to my GitHub profile! I am a binformatics researcher interested in studying disease mechanisms through integrated multi-omics analysis
+Welcome to my GitHub profile! I am a bioinformatics researcher interested in studying disease mechanisms through integrated multi-omics analysis
 
 ### 🔬 About Me
 
@@ -8,7 +8,7 @@ I apply network-based and multi-omics-driven systems biology approaches to study
 
 ### 🎓 Bioinformatics PhD
 
-- **Oct 2023 - *(current)***: &nbsp;&nbsp;Icahn School of Medicine at Mount Sinai, New York, USA
+- **Oct 2023 - *(current)***: &nbsp;&nbsp;Icahn School of Medicine at Mount Sinai, New York, NY, USA
 - **Feb 2017 – Sep 2023**: &nbsp;Ewha Womans University, Seoul, Republic of Korea
 
 ### 🛠️ Skills
@@ -18,6 +18,7 @@ I apply network-based and multi-omics-driven systems biology approaches to study
 - 🔗 Network biology (WGCNA, correlation/network integration)
 - 📊 R (tidyverse, DESeq2, limma, WGCNA, package development)
 - 💻 Bash scripting in HPC environments
+- 🐍 Use Snakemake to organize and build analysis pipeplines
 
 ### ⚗️ Research Interests
 
