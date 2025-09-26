@@ -11,6 +11,13 @@ I apply network-based and multi-omics-driven systems biology approaches to study
 - **Oct 2023 - *(current)***: &nbsp;&nbsp;Icahn School of Medicine at Mount Sinai, New York, NY, USA
 - **Feb 2017 – Sep 2023**: &nbsp;Ewha Womans University, Seoul, Republic of Korea
 
+### ⚗️ Research Interests
+
+- 🎯 Mechanistic discovery and biomarker identification via omics analysis  
+- 💊 Therapeutic target discovery in complex diseases  
+- 🧠 Development of systems biology and network-based analytical frameworks  
+- 🔍 Multi-modal integration of omics data
+
 ### 🛠️ Skills
 
 - 🧬 Transcriptome analysis (RNA-seq, Microarray, scRNA-seq)
@@ -19,11 +26,4 @@ I apply network-based and multi-omics-driven systems biology approaches to study
 - 📊 R (tidyverse, DESeq2, limma, WGCNA, package development)
 - 💻 Bash scripting in HPC environments
 - 🐍 Snakemake to organize and build analysis pipeplines
-
-### ⚗️ Research Interests
-
-- 🎯 Mechanistic discovery and biomarker identification via omics analysis  
-- 💊 Therapeutic target discovery in complex diseases  
-- 🧠 Development of systems biology and network-based analytical frameworks  
-- 🔍 Multi-modal integration of omics data
 
