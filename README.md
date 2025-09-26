@@ -8,9 +8,9 @@ I apply network-based and multi-omics-driven systems biology approaches to study
 
 ### 🎓 Bioinformatics PhD
 
-- **Oct 2023 - *(current)***: &nbsp;&nbsp;Icahn School of Medicine at Mount Sinai, New York, NY, USA (*Postdoctoral Fellow*)
-- **Mar 2023 - Sep 2023**: &nbsp;Ewha Womans University, Seoul, Republic of Korea (*Postdoctoral Fellow*)
-- **Feb 2017 – Feb 2023**: &nbsp;Ewha Womans University, Seoul, Republic of Korea (*Graduate Research Assistant*)
+- **Oct 2023 – *(current)*** &nbsp;&nbsp;&nbsp;Icahn School of Medicine at Mount Sinai, New York, NY, USA (*Postdoctoral Fellow*)
+- **Mar 2023 – Sep 2023** &nbsp;Ewha Womans University, Seoul, Republic of Korea (*Postdoctoral Fellow*)
+- **Feb 2017 – Feb 2023** &nbsp;&nbsp;Ewha Womans University, Seoul, Republic of Korea (*Graduate Research Assistant*)
 
 ### ⚗️ Research Interests
 
