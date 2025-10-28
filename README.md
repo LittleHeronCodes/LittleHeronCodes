@@ -1,6 +1,6 @@
 ## 👋 Hello!
 
-Welcome to my GitHub profile. I am a bioinformatics researcher interested in studying disease mechanisms through integrated multi-omics analysis
+Welcome to my GitHub profile. I am a bioinformatics researcher interested in investigating mechanisms of drug and disease through multi-omics analysis.
 
 ### 🔬 About Me
 
@@ -14,10 +14,9 @@ I apply network-based and multi-omics-driven systems biology approaches to study
 
 ### ⚗️ Research Interests
 
-- 🎯 Mechanistic discovery and biomarker identification via omics analysis  
-- 💊 Therapeutic target discovery in complex diseases  
+- 🔍 Mechanistic discovery and biomarker identification via omics analysis  
+- 🎯 Therapeutic target discovery in complex diseases  
 - 🧠 Development of systems biology and network-based analytical frameworks  
-- 🔍 Multi-modal integration of omics data
 
 ### 🛠️ Skills
 
@@ -27,4 +26,3 @@ I apply network-based and multi-omics-driven systems biology approaches to study
 - 📊 R (tidyverse, DESeq2, limma, WGCNA, package development)
 - 💻 Bash scripting in HPC environments
 - 🐍 Snakemake to organize and build analysis pipeplines
-
